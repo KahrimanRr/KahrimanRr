@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rijad Kahriman</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

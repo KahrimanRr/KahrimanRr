@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rijad Kahriman</h1>
-<img align="right" alt="Coding" width="300" src="https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 <p align="left">
 </p>
 
